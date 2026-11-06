@@ -25,7 +25,7 @@ The questionnaire examines household water-service experiences across eight doma
 | Affordability | Household water-related costs and affordability experiences |
 | Access | Accessibility of household water services |
 | Reliability | Reliability of water supply and related experiences |
-| Efficiency | Water-supply characteristics and associated service experiences |
+| Efficiency | Efficiency of water delivery |
 | Acceptability | Household experiences of water acceptability |
 | Perceived water quality | Household perceptions and assessments of water quality |
 | Quantity | Water availability and adequacy of quantity |
@@ -187,7 +187,7 @@ Original repository software is provided under the MIT License (`LICENSE`) and o
 
 **Aadhityaa (Aadhi) Mohanavelu**  
 Department of Civil and Environmental Engineering, Stanford University  
-[Personal website](https://aadhi-mohanavelu.com/)
+aadhi@stanford.edu
 
 **Prof. Khalid K. Osman**  
 Department of Civil and Environmental Engineering, Stanford University  
