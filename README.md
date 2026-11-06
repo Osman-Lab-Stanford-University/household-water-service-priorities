@@ -4,10 +4,6 @@
 
 *Household water-service priorities are not simple reflections of experienced service deficits*
 
-Aadhityaa Mohanavelu and Khalid K. Osman  
-Osman Lab | Department of Civil and Environmental Engineering  
-Stanford University
-
 ## Overview
 
 Household assessments of water-service quality describe the conditions people experience, but they do not necessarily explain which aspects of service households consider most consequential.
