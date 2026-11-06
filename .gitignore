@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Restricted research data
+data/raw/
+data/private/
+data/restricted/
+
+# Generated outputs
+outputs/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Local archives
+*.zip
+
+# Research-specific local results
+original_computed_results.json
