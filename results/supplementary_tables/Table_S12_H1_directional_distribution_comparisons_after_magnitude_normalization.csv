@@ -1,0 +1,5 @@
+Held-out comparison,Median difference (nats/household),Splits favoring first model
+Two vMF versus one vMF,+0.12756,50/50
+Two vMF versus one ACG,−0.05516,0/50
+Two vMF versus projected Student-t,−0.09402,0/50
+ACG versus projected Student-t,−0.03914,0/50

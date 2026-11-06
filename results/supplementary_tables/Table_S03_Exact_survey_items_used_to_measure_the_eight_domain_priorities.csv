@@ -1,0 +1,9 @@
+Domain,QID,Administered question wording,Response scale,Analytical treatment
+Affordability,Q2.9,"On a scale from 0 to 10, how would you rate the water source and questions discussed in this section in terms of their impact on your overall water service quality and experience?",0–10,Original scale retained
+Access,Q3.9,"On a scale from 0 to 10, how would you rate the access and questions discussed in this section in terms of their impact on your overall water service quality and experience?",0–10,Original scale retained
+Reliability,Q4.5,"On a scale from 0 to 10, how would you rate the reliability in terms of its impact on your overall water service quality and experience?",0–10,Original scale retained
+Efficiency,Q5.4,"On a scale from 0 to 10, how would you rate the supply characteristics and questions discussed in this section in terms of their impact on your overall water service quality and experience?",0–10,Original scale retained
+Acceptability,Q6.6,"On a scale from 0 to 10, how would you rate the acceptability and questions discussed in this section in terms of their impact on your overall water service quality and experience?",0–10,Original scale retained
+Quality,Q7.5,"On a scale from 0 to 10, how would you rate quality and questions discussed in this section in terms of their impact on your overall water service quality and experience?",0–10,Original scale retained
+Quantity,Q8.6,"On a scale from 0 to 10, how would you rate quantity and questions discussed in this section in terms of their impact on your overall water service quality and experience?",0–10,Original scale retained
+Customer service,Q9.5,"On a scale from 0 to 10, how would you rate service/maintenance and questions discussed in this section in terms of their impact on your overall water service quality and experience?",0–10,Original scale retained

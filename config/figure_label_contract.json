@@ -1,0 +1,36 @@
+{
+  "source": "Manuscript and Supplementary Information figure captions",
+  "figure_captions": {
+    "Figure 1": "Fig. 1. Household water-service priorities show substantial within-household differentiation",
+    "Figure 2": "Fig. 2. Relative household water-service priorities retain reproducible structure beyond overall rating intensity",
+    "Figure 3": "Fig. 3. Experienced service deficits show little alignment with household relative priorities",
+    "Figure 4": "Fig. 4. Household context and experienced service conditions are associated with fitted priority components among households that differentiate.",
+    "Figure 5": "Fig. 5. Service-deficit configuration is associated with fitted priority components across modeling checks.",
+    "Figure 6": "Fig. 6. Geographic distribution of surveyed households and study areas.",
+    "Figure S1": "Supplementary Fig. S1. Conventional clustering of raw priority ratings primarily recovers response intensity",
+    "Figure S2": "Supplementary Fig. S2. Held-out validation requires predictive improvement and reproducible component geometry.",
+    "Figure S3": "Supplementary Fig. S3. Equal-raters form an exact point mass in relative-priority space",
+    "Figure S4": "Supplementary Fig. S4. Ordinal functional-form sensitivity of H2 matched deficit–priority",
+    "Figure S5": "Supplementary Fig. S5. Analysis-specific sample construction",
+    "Figure S6": "Supplementary Fig. S6. H3B coefficients under flexible service-deficit coding",
+    "Figure S7": "Supplementary Fig. S7. H3A service evidence varies across prespecified service representations"
+  },
+  "preferred_terms": {
+    "measurement": "reported impact ratings",
+    "household construct": "relative priority",
+    "magnitude": "differentiation magnitude",
+    "direction": "relative-priority direction",
+    "h3b": "fitted component probability",
+    "deficits": "experienced service deficits"
+  },
+  "deprecated_label_terms": [
+    "salience",
+    "saliency"
+  ],
+  "labeling_requirements": [
+    "Use current figure number and full caption as anchored in manuscript",
+    "Retain reported impact versus deficit measurement distinction",
+    "Never relabel modeled probability as demonstrated discrete household type",
+    "Do not change source numerical arrays to satisfy presentational consistency"
+  ]
+}

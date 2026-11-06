@@ -1,0 +1,3 @@
+Model,Bootstrap replicates,Valid replicates,Median ARI,Median NMI,Median convergence rate,Minimum equivalent-optimum starts,Minimum eigenvalue / variance,Minimum class-wise median Jaccard,Gate result
+Full-covariance ,500,500,0.9436,0.8935,1.0000,198,0.2359,0.963,Pass
+Spherical ,500,500,0.9589,0.9202,1.0000,199,0.4196,0.974,Pass

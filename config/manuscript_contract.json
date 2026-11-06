@@ -1,0 +1,81 @@
+{
+  "paper_title": "Household water-service priorities are not simple reflections of experienced service deficits",
+  "domain_order": [
+    "affordability",
+    "access",
+    "reliability",
+    "efficiency",
+    "acceptability",
+    "quality",
+    "quantity",
+    "customer_service"
+  ],
+  "priority_qids": [
+    "Q2.9",
+    "Q3.9",
+    "Q4.5",
+    "Q5.4",
+    "Q6.6",
+    "Q7.5",
+    "Q8.6",
+    "Q9.5"
+  ],
+  "deficit_qids": [
+    "Q2.2",
+    "Q3.1",
+    "Q13.1",
+    "Q5.1",
+    "Q6.2-Q6.4",
+    "Q7.1",
+    "Q8.1+Q8.3",
+    "Q9.2+Q9.3"
+  ],
+  "expected_publication_counts": {
+    "survey_submissions": 9562,
+    "canonical": 2874,
+    "equal_raters": 557,
+    "differentiators": 2317,
+    "h2": 2870,
+    "h3a": 2863,
+    "h3b": 2306,
+    "geocoded": 2768,
+    "postal_pin_locations": 436
+  },
+  "h1_publication_design": {
+    "helmert_dimension": 7,
+    "K_candidates": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "covariance_families": [
+      "spherical",
+      "tied-full",
+      "component-specific-full"
+    ],
+    "optimization_starts": 200,
+    "heldout_splits": 50,
+    "training_fraction": 0.8,
+    "bootstrap_replicates": 500,
+    "selected_model": "full-covariance K=2",
+    "model_selection_reopened_after_diagnostics": false
+  },
+  "h2_publication_design": {
+    "household_fixed_effects": true,
+    "domain_fixed_effects": true,
+    "household_clustered_se": true,
+    "domain_specific_holm_tests": 8,
+    "cross_domain_bh_tests": 64
+  },
+  "h3_publication_design": {
+    "H3A_outcome": "any nonzero rating range",
+    "H3B_outcome": "fitted probability of B under frozen H1 densities",
+    "confirmatory_holm_family": 4,
+    "household_localization_family": 3,
+    "service_localization_family": 8,
+    "h3b_optimization_starts": 100,
+    "bootstrap_replicates": 500
+  }
+}

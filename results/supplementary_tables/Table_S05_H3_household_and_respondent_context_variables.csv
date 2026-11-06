@@ -1,0 +1,7 @@
+Role,QID,Variable,Coding,Reporting reference
+Primary,Q15.10,Household size,"1–8, with 8 representing 8+; standardized before modeling",Per 1-SD increase
+Primary,Q15.15,Housing tenure,Owned free and clear; owned with mortgage/loan; rented; other,Owned free and clear
+Primary,Q15.14,Dwelling type,Individual house; apartment; temporary housing; other,Individual house
+Expanded-context sensitivity,Q15.2,Respondent gender,Categorical; sparse categories retained unchanged,Male
+Expanded-context sensitivity,Q15.5,Upbringing area,Urban; sub-urban; rural,Rural
+Secondary sensitivity,Q15.13,Vehicle ownership,None=0; one=1; two=2; modeled categorically in robustness analysis,None

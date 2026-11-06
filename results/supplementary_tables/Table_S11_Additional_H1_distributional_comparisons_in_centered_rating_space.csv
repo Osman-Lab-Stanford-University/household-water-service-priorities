@@ -1,0 +1,6 @@
+Model,BIC,Median held-out gain of full GMM K=2 over comparator (nats/household),Splits favoring full GMM
+Single Gaussian,"52,686.2",+0.99336,50/50
+"K=2, shared mean and differing scales","48,239.3",+0.00630,35/50
+"K=2, shared mean and separate covariances","48,368.7",+0.00151,34/50
+"Full-covariance GMM, K=2","48,396.7",Reference,—
+Single multivariate Student-t,"47,910.3",−0.06488,0/50

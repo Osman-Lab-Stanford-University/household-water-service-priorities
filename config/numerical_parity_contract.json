@@ -1,0 +1,96 @@
+{
+  "status": "reported_numerical_reference_values",
+  "required_numerical_checks": [
+    {
+      "result_id": "survey_submissions",
+      "reported_value": 9562,
+      "location": "Main Methods / SI S1",
+      "absolute_tolerance": 0,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "priority_canonical_N",
+      "reported_value": 2874,
+      "location": "Main Methods / SI S1",
+      "absolute_tolerance": 0,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "equal_rater_N",
+      "reported_value": 557,
+      "location": "SI S1 / H1",
+      "absolute_tolerance": 0,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "differentiators_N",
+      "reported_value": 2317,
+      "location": "H1 Results",
+      "absolute_tolerance": 0,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "H2_N",
+      "reported_value": 2870,
+      "location": "H2 Results",
+      "absolute_tolerance": 0,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "H3A_N",
+      "reported_value": 2863,
+      "location": "H3 Results",
+      "absolute_tolerance": 0,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "H3B_N",
+      "reported_value": 2306,
+      "location": "H3 Results",
+      "absolute_tolerance": 0,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "H2_pooled_beta",
+      "reported_value": -0.00448,
+      "location": "H2 / SI S4",
+      "absolute_tolerance": 5e-06,
+      "source_precision": "Reported to five decimal places"
+    },
+    {
+      "result_id": "H2_pooled_SE",
+      "reported_value": 0.01169,
+      "location": "H2 / SI S4",
+      "absolute_tolerance": 5e-06,
+      "source_precision": "Reported to five decimal places"
+    },
+    {
+      "result_id": "H3B_apartment_OR",
+      "reported_value": 2.0,
+      "location": "H3 / SI S5",
+      "absolute_tolerance": 0.01,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "H3B_acceptability_OR",
+      "reported_value": 1.304,
+      "location": "H3 / SI S5",
+      "absolute_tolerance": 0.001,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "H2_Q4_1_sensitivity_beta",
+      "reported_value": -0.00166,
+      "location": "SI S4.4",
+      "absolute_tolerance": 5e-06,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    },
+    {
+      "result_id": "weighting_top_decile_overlap_pct",
+      "reported_value": 94.8,
+      "location": "SI S7",
+      "absolute_tolerance": 0.05,
+      "source_precision": "As presented in manuscript/SI at displayed precision"
+    }
+  ]
+}

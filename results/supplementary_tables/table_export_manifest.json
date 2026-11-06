@@ -1,0 +1,226 @@
+[
+  {
+    "table_ordinal": 1,
+    "rows": 9,
+    "columns": 5,
+    "file": "Table_S01_External_composition_benchmark_and_benchmark_definition_sensitivities.csv",
+    "caption": "Supplementary Table S1. External composition benchmark and benchmark-definition sensitivities"
+  },
+  {
+    "table_ordinal": 2,
+    "rows": 18,
+    "columns": 4,
+    "file": "Table_S02_Composition_of_equal_raters_and_differentiating_households.csv",
+    "caption": "Supplementary Table S2. Composition of equal-raters and differentiating households"
+  },
+  {
+    "table_ordinal": 3,
+    "rows": 9,
+    "columns": 5,
+    "file": "Table_S03_Exact_survey_items_used_to_measure_the_eight_domain_priorities.csv",
+    "caption": "Supplementary Table S3. Exact survey items used to measure the eight domain priorities"
+  },
+  {
+    "table_ordinal": 4,
+    "rows": 9,
+    "columns": 5,
+    "file": "Table_S04_Exact_construction_and_measurement_audit_for_the_eight_experienced_service_deficits.csv",
+    "caption": "Supplementary Table S4. Exact construction and measurement audit for the eight experienced-service deficits"
+  },
+  {
+    "table_ordinal": 5,
+    "rows": 7,
+    "columns": 5,
+    "file": "Table_S05_H3_household_and_respondent_context_variables.csv",
+    "caption": "Supplementary Table S5. H3 household and respondent-context variables"
+  },
+  {
+    "table_ordinal": 6,
+    "rows": 9,
+    "columns": 8,
+    "file": "Table_S06_Raw_and_person_centered_priority_rating_descriptives.csv",
+    "caption": "Supplementary Table S6. Raw and person-centered priority-rating descriptives"
+  },
+  {
+    "table_ordinal": 7,
+    "rows": 8,
+    "columns": 7,
+    "file": "Table_S07_PPCA_continuous_comparator_grid.csv",
+    "caption": "Supplementary Table S7. PPCA continuous-comparator grid"
+  },
+  {
+    "table_ordinal": 8,
+    "rows": 16,
+    "columns": 7,
+    "file": "Table_S08_Complete_relative_priority_Gaussian_mixture_discovery_grid.csv",
+    "caption": "Supplementary Table S8. Complete relative-priority Gaussian-mixture discovery grid"
+  },
+  {
+    "table_ordinal": 9,
+    "rows": 3,
+    "columns": 10,
+    "file": "Table_S09_Bootstrap_stability_of_the_validated_H1_models.csv",
+    "caption": "Supplementary Table S9. Bootstrap stability of the validated H1 models"
+  },
+  {
+    "table_ordinal": 10,
+    "rows": 9,
+    "columns": 4,
+    "file": "Table_S10_Estimated_relative_priority_components_in_the_primary_H1_model.csv",
+    "caption": "Supplementary Table S10. Estimated relative-priority components in the primary H1 model"
+  },
+  {
+    "table_ordinal": 11,
+    "rows": 6,
+    "columns": 4,
+    "file": "Table_S11_Additional_H1_distributional_comparisons_in_centered_rating_space.csv",
+    "caption": "Supplementary Table S11. Additional H1 distributional comparisons in centered-rating space"
+  },
+  {
+    "table_ordinal": 12,
+    "rows": 5,
+    "columns": 3,
+    "file": "Table_S12_H1_directional_distribution_comparisons_after_magnitude_normalization.csv",
+    "caption": "Supplementary Table S12. H1 directional-distribution comparisons after magnitude normalization"
+  },
+  {
+    "table_ordinal": 13,
+    "rows": 3,
+    "columns": 6,
+    "file": "Table_S13_Primary_analysis_and_differentiator_only_sensitivity.csv",
+    "caption": "Supplementary Table S13. Primary analysis and differentiator-only sensitivity"
+  },
+  {
+    "table_ordinal": 14,
+    "rows": 9,
+    "columns": 7,
+    "file": "Table_S14_Domain_specific_matched_associations.csv",
+    "caption": "Supplementary Table S14. Domain-specific matched associations"
+  },
+  {
+    "table_ordinal": 15,
+    "rows": 65,
+    "columns": 7,
+    "file": "Table_S15_Complete_8_8_relative_deficit_priority_association_map.csv",
+    "caption": "Supplementary Table S15. Complete 8×8 relative deficit–priority association map"
+  },
+  {
+    "table_ordinal": 16,
+    "rows": 9,
+    "columns": 8,
+    "file": "Table_S16_H2_functional_form_tests_for_single_item_deficits_and_supporting_slopes_for_composite_deficits.csv",
+    "caption": "Supplementary Table S16. H2 functional-form tests for single-item deficits and supporting slopes for composite deficits"
+  },
+  {
+    "table_ordinal": 17,
+    "rows": 6,
+    "columns": 6,
+    "file": "Table_S17_Category_support_for_the_five_single_item_ordinal_deficits.csv",
+    "caption": "Supplementary Table S17. Category support for the five single-item ordinal deficits"
+  },
+  {
+    "table_ordinal": 18,
+    "rows": 5,
+    "columns": 3,
+    "file": "Table_S18_Equivalence_tests_for_the_primary_pooled_H2_coefficient.csv",
+    "caption": "Supplementary Table S18. Equivalence tests for the primary pooled H2 coefficient"
+  },
+  {
+    "table_ordinal": 19,
+    "rows": 5,
+    "columns": 4,
+    "file": "Table_S19_Alternative_reliability_measure_and_exploratory_H2_interactions.csv",
+    "caption": "Supplementary Table S19. Alternative reliability measure and exploratory H2 interactions"
+  },
+  {
+    "table_ordinal": 20,
+    "rows": 5,
+    "columns": 8,
+    "file": "Table_S20_Confirmatory_H3_block_level_tests.csv",
+    "caption": "Supplementary Table S20. Confirmatory H3 block-level tests"
+  },
+  {
+    "table_ordinal": 21,
+    "rows": 12,
+    "columns": 6,
+    "file": "Table_S21_Variable_level_localization_within_the_confirmed_H3B_blocks.csv",
+    "caption": "Supplementary Table S21. Variable-level localization within the confirmed H3B blocks"
+  },
+  {
+    "table_ordinal": 22,
+    "rows": 3,
+    "columns": 5,
+    "file": "Table_S22_Effect_estimates_for_localized_H3B_associations.csv",
+    "caption": "Supplementary Table S22. Effect estimates for localized H3B associations"
+  },
+  {
+    "table_ordinal": 23,
+    "rows": 33,
+    "columns": 7,
+    "file": "Table_S23_Complete_coefficient_estimates_from_the_primary_H3A_and_H3B_models.csv",
+    "caption": "Supplementary Table S23. Complete coefficient estimates from the primary H3A and H3B models"
+  },
+  {
+    "table_ordinal": 24,
+    "rows": 5,
+    "columns": 6,
+    "file": "Table_S24_Robustness_of_H3B_associations_to_class_handling_and_H1_mixture_specification.csv",
+    "caption": "Supplementary Table S24. Robustness of H3B associations to class handling and H1 mixture specification"
+  },
+  {
+    "table_ordinal": 25,
+    "rows": 9,
+    "columns": 2,
+    "file": "Table_S25_Domain_level_tests_under_flexible_H3B_service_coding.csv",
+    "caption": "Supplementary Table S25. Domain-level tests under flexible H3B service coding"
+  },
+  {
+    "table_ordinal": 26,
+    "rows": 7,
+    "columns": 5,
+    "file": "Table_S26_Decomposition_of_service_conditions_into_overall_burden_and_relative_deficit_configuration.csv",
+    "caption": "Supplementary Table S26. Decomposition of service conditions into overall burden and relative deficit configuration"
+  },
+  {
+    "table_ordinal": 27,
+    "rows": 9,
+    "columns": 7,
+    "file": "Table_S27_Robustness_of_the_primary_H3_blocks_to_expanded_context_adjustment.csv",
+    "caption": "Supplementary Table S27. Robustness of the primary H3 blocks to expanded-context adjustment"
+  },
+  {
+    "table_ordinal": 28,
+    "rows": 7,
+    "columns": 7,
+    "file": "Table_S28_Associations_of_added_respondent_context_variables_in_expanded_H3_models.csv",
+    "caption": "Supplementary Table S28. Associations of added respondent-context variables in expanded H3 models"
+  },
+  {
+    "table_ordinal": 29,
+    "rows": 5,
+    "columns": 6,
+    "file": "Table_S29_H3_exploratory_predictor_block_tests_for_differentiation_magnitude_and_direction.csv",
+    "caption": "Supplementary Table S29. H3 exploratory predictor-block tests for differentiation magnitude and direction"
+  },
+  {
+    "table_ordinal": 30,
+    "rows": 8,
+    "columns": 4,
+    "file": "Table_S30_Five_fold_held_out_prediction_for_H3_differentiation_magnitude_and_direction.csv",
+    "caption": "Supplementary Table S30. Five-fold held-out prediction for H3 differentiation magnitude and direction"
+  },
+  {
+    "table_ordinal": 31,
+    "rows": 17,
+    "columns": 6,
+    "file": "Table_S31_Conditional_and_full_first_stage_bootstrap_uncertainty_for_the_H3B_coefficient_vector.csv",
+    "caption": "Supplementary Table S31. Conditional and full first-stage bootstrap uncertainty for the H3B coefficient vector"
+  },
+  {
+    "table_ordinal": 32,
+    "rows": 4,
+    "columns": 6,
+    "file": "Table_S32_Highest_severity_selection_under_equal_and_household_specific_impact_weights.csv",
+    "caption": "Supplementary Table S32. Highest-severity selection under equal and household-specific impact weights"
+  }
+]

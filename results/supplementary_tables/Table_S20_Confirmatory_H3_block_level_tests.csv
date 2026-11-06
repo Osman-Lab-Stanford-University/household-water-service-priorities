@@ -1,0 +1,5 @@
+Outcome,Predictor block,N,df,Wald χ²,Raw P,Holm-adjusted P,Result
+H3A: observed differentiation,Household context,"2,863",7,5.67,0.579,0.579,Does not pass
+H3A: observed differentiation,Service conditions,"2,863",8,15.82,0.0450,0.0900,Does not pass
+H3B: fitted mixture components,Household context,"2,306",7,22.53,0.00206,0.00617,Pass
+H3B: fitted mixture components,Service conditions,"2,306",8,30.47,0.000174,0.000697,Pass

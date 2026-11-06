@@ -1,0 +1,8 @@
+Outcome,Predictors,Held-out R²,RMSE
+Log differentiation SD,Intercept only,−0.00152,0.58294
+Log differentiation SD,Household context,0.00163,0.58202
+Log differentiation SD,Service conditions,0.01333,0.57860
+Log differentiation SD,Household context + service conditions,0.01411,0.57837
+Relative-priority direction,Intercept only,−0.00067,0.37432
+Relative-priority direction,Magnitude only,−0.00043,0.37428
+Relative-priority direction,Magnitude + household context + service conditions,−0.00461,0.37506

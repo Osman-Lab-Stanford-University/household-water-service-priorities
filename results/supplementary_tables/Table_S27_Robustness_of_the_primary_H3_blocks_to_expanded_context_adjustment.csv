@@ -1,0 +1,9 @@
+Outcome,Expanded specification,N,Primary block,df,Wald χ²,Raw P
+H3A,Gender + upbringing,"2,863",Household context,7,5.253,0.629
+H3A,Gender + upbringing,"2,863",Service conditions,8,16.091,0.041
+H3B,Gender + upbringing,"2,306",Household context,7,19.923,0.0057
+H3B,Gender + upbringing,"2,306",Service conditions,8,27.908,0.00049
+H3A,Gender + upbringing + vehicle,"2,863",Household context,7,6.223,0.514
+H3A,Gender + upbringing + vehicle,"2,863",Service conditions,8,15.671,0.047
+H3B,Gender + upbringing + vehicle,"2,306",Household context,7,18.500,0.0099
+H3B,Gender + upbringing + vehicle,"2,306",Service conditions,8,27.658,0.00052

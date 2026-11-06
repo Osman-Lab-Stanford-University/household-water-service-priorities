@@ -1,0 +1,256 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Numerical comparison input",
+  "description": "A JSON object mapping reference result IDs to numeric values. A partial object is permitted.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "survey_submissions": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "priority_canonical_N": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "equal_rater_N": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "differentiators_N": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "H2_N": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "H3A_N": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "H3B_N": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "H2_pooled_beta": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "H2_pooled_SE": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "H3B_apartment_OR": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "H3B_acceptability_OR": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "H2_Q4_1_sensitivity_beta": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "weighting_top_decile_overlap_pct": {
+      "oneOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "object",
+          "required": [
+            "value"
+          ],
+          "properties": {
+            "value": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    }
+  }
+}

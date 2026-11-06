@@ -1,0 +1,5 @@
+Outcome,Predictor block,Statistic,Raw P,Exploratory Holm P,Partial R²
+Log differentiation SD,Household context,HC3 Wald χ²(7) = 16.67,0.0196,—,—
+Log differentiation SD,Service conditions,HC3 Wald χ²(8) = 42.21,1.24 × 10⁻⁶,—,—
+Relative-priority direction,Household context,Wild-sign test,0.521,0.521,0.00296
+Relative-priority direction,Service conditions,Wild-sign test,0.031,0.062,0.00490

@@ -1,0 +1,3 @@
+Variable / contrast,Test,Raw P,Multiplicity treatment,Effect estimate
+Apartment vs individual house,Subordinate contrast within dwelling type,0.00102,Not separately adjusted after significant dwelling-type omnibus test,"OR 2.00 [1.32, 3.03]; +16.62 pp"
+"Acceptability, per 1-SD worse deficit",Prespecified domain-level test,5.47 × 10⁻⁶,Holm8-adjusted P = 4.37 × 10⁻⁵,"OR 1.304 [1.163, 1.462]; +6.25 pp"

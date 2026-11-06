@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated study and the repository version used."
+title: "Household Water-Service Priorities: Research Code and Reproducibility Materials"
+authors:
+  - family-names: Mohanavelu
+    given-names: Aadhityaa
+  - family-names: Osman
+    given-names: Khalid K.
+abstract: "Measurement documentation, supplementary numerical references, and computational research materials for household water-service priorities. The included software demonstration uses synthetic data."

@@ -1,0 +1,5 @@
+H3B specification,Household block χ² / P,Service block χ² / P,Dwelling-type χ² / P,Apartment β / OR,Acceptability β / OR
+Primary fixed-measurement full ,22.532 / 0.00206,30.475 / 0.000174,12.479 / 0.0059,+0.694 / 2.002,+0.266 / 1.304
+Hard modal assignment,22.110 / 0.00243,26.684 / 0.00080,10.337 / 0.0159,+0.588 / 1.801,+0.235 / 1.265
+200-draw pseudo-class pooled,15.612 / 0.0289,23.025 / 0.0033,8.624 / 0.0347,+0.564 / 1.758,+0.222 / 1.249
+Validated spherical ,25.562 / 0.00060,43.171 / ,14.119 / 0.00275,+0.646 / 1.909,+0.360 / 1.433

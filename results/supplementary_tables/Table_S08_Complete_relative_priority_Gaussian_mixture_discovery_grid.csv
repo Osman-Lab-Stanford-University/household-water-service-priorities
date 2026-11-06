@@ -1,0 +1,16 @@
+Covariance,K,BIC,Equivalent-optimum starts,Minimum eigenvalue / variance,Minimum hard class share (%),Discovery decision
+spherical,1,"53,773.1",200,1.6060,100.00,Do not advance
+spherical,2,"49,160.9",200,0.4808,39.15,Advance
+spherical,3,"48,696.3",7,0.2807,21.45,Fail numerical gate
+spherical,4,"48,314.5",42,0.2924,18.56,Advance
+spherical,5,"45,191.9",1,0.0000,1.68,Fail numerical gate
+tied full,1,"52,686.2",200,1.0503,100.00,Do not advance
+tied full,2,"52,481.9",200,1.0478,4.01,Fail component-size gate
+tied full,3,"52,231.5",3,0.7463,3.45,Fail numerical gate
+tied full,4,"51,923.8",1,0.5509,2.33,Fail numerical gate
+tied full,5,"51,781.3",3,0.5681,1.90,Fail numerical gate
+full,1,"52,686.2",200,1.0503,100.00,Do not advance
+full,2,"48,396.7",200,0.2924,37.33,Advance
+full,3,"35,338.0",6,0.0000,26.28,Fail numerical gate
+full,4,"35,336.4",9,0.0000,18.86,Fail numerical gate
+full,5,"30,242.2",2,0.0000,9.15,Fail numerical gate

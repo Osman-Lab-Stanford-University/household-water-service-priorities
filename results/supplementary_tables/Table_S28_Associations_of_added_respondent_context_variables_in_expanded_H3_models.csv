@@ -1,0 +1,7 @@
+Outcome,Expanded specification,Added variable,df,Wald χ²,Raw P,Supporting Holm P
+H3A,Gender + upbringing,Respondent gender,3,1.206,0.752,0.777
+H3A,Gender + upbringing,Upbringing area,2,1.890,0.389,0.777
+H3B,Gender + upbringing,Respondent gender,3,42.264,,
+H3B,Gender + upbringing,Upbringing area,2,0.051,0.975,0.975
+H3A,Gender + upbringing + vehicle,Vehicle ownership,2,7.728,0.021,—
+H3B,Gender + upbringing + vehicle,Vehicle ownership,2,5.058,0.080,—
